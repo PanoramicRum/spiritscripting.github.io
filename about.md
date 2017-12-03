@@ -12,6 +12,8 @@ A place to include any other types of information that you'd like to include abo
 
 This is just a test.
 
+Another test.
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
